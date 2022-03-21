@@ -1,10 +1,12 @@
 ## 経歴
+
 - 2020年11月〜 WEBエンジニア
 - 2021年11月〜 プロジェクトリーダー
 
 PHP/Laravelを使用し、にバックエンドエンジニアとして活動しています。
 
 ## 技術スタック
+
 - PHP
 - Laravel（業務経験1年〜　現在も使用中）
 - FuelPHP（業務経験4ヶ月）
@@ -14,6 +16,8 @@ PHP/Laravelを使用し、にバックエンドエンジニアとして活動し
 - AWS
 - Ruby（業務経験無し）
 - Ruby On Rails（業務経験無し）
+
+## GitHubでの活動状況
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamozipc&layout=compact&langs_count=6&theme=gruvbox)
