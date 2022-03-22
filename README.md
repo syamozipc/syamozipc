@@ -13,7 +13,7 @@ PHP/Laravelを採用しているプロジェクトにて、フロントエンド
 - JavaScript（ES6）
 - TypeScript（業務経験無し）
 - SQL
-- AWS（EC2/RDS/S3/CloudFront/CloudWatch/CodeCommit）
+- AWS
 - Ruby（業務経験無し）
 - Ruby On Rails（業務経験無し）
 
