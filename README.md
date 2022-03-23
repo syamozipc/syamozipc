@@ -12,7 +12,7 @@ PHP/Laravelを採用しているプロジェクトにて、フロントエンド
 - FuelPHP（業務経験4ヶ月）
 - JavaScript（ES6）
 - TypeScript（業務経験無し）
-- SQL
+- MySQL
 - AWS
 - Ruby（業務経験無し）
 - Ruby On Rails（業務経験無し）
