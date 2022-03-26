@@ -5,6 +5,8 @@
 
 PHP/Laravelを採用しているプロジェクトにて、フロントエンド・バックエンド兼任エンジニアとして活動しています。
 
+[Zennアカウント](https://zenn.dev/syamozipc)
+
 ## 技術スタック
 
 - PHP
