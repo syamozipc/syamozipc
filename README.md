@@ -10,10 +10,10 @@
 
 ## 技術スタック
 
-- PHP/Laravel/FuelPHP
-- Ruby/Ruby On Rails
-- JavaScript/TypeScript
-- MySQL/AWS/Docker
+- PHP / Laravel / FuelPHP
+- Ruby / Ruby On Rails
+- JavaScript / TypeScript
+- MySQL / AWS / Docker
 
 ## GitHubでの活動状況
 
