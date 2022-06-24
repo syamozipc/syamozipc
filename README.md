@@ -1,23 +1,19 @@
 ## 経歴
 
-- 2020年11月〜 WEBエンジニア
-- 2021年11月〜 プロジェクトリーダー
+- 2020年11月〜　WEBエンジニア
+- 2021年11月〜 2022年6月　プロジェクトリーダー
+- 2022年7月〜　WEBエンジニア2社目
 
-PHP/Laravelを採用しているプロジェクトにて、フロントエンド・バックエンド兼任エンジニアとして活動しています。
+7月からは新しい会社でGo/TypeScript/Vueを使用して開発する予定です。
 
 [Zennアカウントはこちら](https://zenn.dev/syamozipc)
 
 ## 技術スタック
 
-- PHP
-- Laravel（業務経験1年〜 現在も使用中）
-- FuelPHP（業務経験4ヶ月）
-- JavaScript（ES6）
-- TypeScript（業務経験無し）
-- MySQL
-- AWS
-- Ruby（業務経験無し）
-- Ruby On Rails（業務経験無し）
+- PHP/Laravel/FuelPHP
+- Ruby/Ruby On Rails
+- JavaScript/TypeScript
+- MySQL/AWS/Docker
 
 ## GitHubでの活動状況
 
