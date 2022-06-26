@@ -10,9 +10,10 @@
 
 ## 技術スタック
 
+- Golang
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby On Rails
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Vue
 - MySQL / AWS / Docker
 
 ## GitHubでの活動状況
