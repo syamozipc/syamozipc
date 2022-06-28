@@ -13,7 +13,7 @@
 - Golang
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby On Rails
-- JavaScript / TypeScript / Vue
+- JavaScript / TypeScript / Vue.js
 - MySQL / AWS / Docker
 
 ## GitHubでの活動状況
