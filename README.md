@@ -10,7 +10,7 @@
 
 - Golang
 - PHP / Laravel / FuelPHP
-- Ruby / Ruby On Rails
+- Ruby / Ruby on Rails
 - JavaScript / TypeScript / Vue.js
 - MySQL / AWS / Docker
 
