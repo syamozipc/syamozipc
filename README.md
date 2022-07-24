@@ -12,7 +12,7 @@
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby on Rails
 - JavaScript / TypeScript / Vue.js
-- swagger
+- Swagger
 - MySQL / PostgreSQL / AWS / Docker
 
 ## GitHubでの活動状況
