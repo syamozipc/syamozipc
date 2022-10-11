@@ -4,7 +4,8 @@
 - 2021年11月〜2022年6月　プロジェクトリーダー
 - 2022年7月〜　WEBエンジニア2社目
 
-[Zennアカウントはこちら](https://zenn.dev/syamozipc)
+[Zennアカウント](https://zenn.dev/syamozipc)
+[Qiitaアカウント](https://qiita.com/syamozipc)
 
 ## 技術スタック
 
