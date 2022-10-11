@@ -5,6 +5,7 @@
 - 2022年7月〜　WEBエンジニア2社目
 
 [Zennアカウント](https://zenn.dev/syamozipc)
+
 [Qiitaアカウント](https://qiita.com/syamozipc)
 
 ## 技術スタック
