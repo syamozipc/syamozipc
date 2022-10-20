@@ -17,7 +17,8 @@
 過去に使用経験のあるもの
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby on Rails
-- JavaScript / MySQL
+- JavaScript
+- MySQL
 
 ## GitHubでの活動状況
 
