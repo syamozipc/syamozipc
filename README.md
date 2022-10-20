@@ -10,12 +10,14 @@
 
 ## 技術スタック
 
-- Go
+現職で使用しているもの
+- Go / TypeScript / Vue / React
+- PostgreSQL / AWS / Docker / Terraform
+
+過去に使用経験のあるもの
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby on Rails
-- JavaScript / TypeScript / Vue.js
-- MySQL / PostgreSQL
-- AWS / Docker / Terraform
+- JavaScript / MySQL
 
 ## GitHubでの活動状況
 
