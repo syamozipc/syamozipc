@@ -10,7 +10,7 @@
 
 ## 技術スタック
 
-- Golang
+- Go
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby on Rails
 - JavaScript / TypeScript / Vue.js
