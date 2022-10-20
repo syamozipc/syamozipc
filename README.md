@@ -14,8 +14,8 @@
 - PHP / Laravel / FuelPHP
 - Ruby / Ruby on Rails
 - JavaScript / TypeScript / Vue.js
-- Swagger
-- MySQL / PostgreSQL / AWS / Docker
+- MySQL / PostgreSQL
+- AWS / Docker / Terraform
 
 ## GitHubでの活動状況
 
