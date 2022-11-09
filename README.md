@@ -1,8 +1,7 @@
-## 経歴
+## エンジニア歴
 
-- 2020年11月〜2022年6月　WEBエンジニア1社目
-- 2021年11月〜2022年6月　プロジェクトリーダー
-- 2022年7月〜　WEBエンジニア2社目
+- 2020年11月〜2022年6月　マーケティング企業（ナイトレジャー専門）
+- 2022年7月〜　不動産IT企業
 
 [Zennアカウント](https://zenn.dev/syamozipc)
 
@@ -10,15 +9,10 @@
 
 ## 技術スタック
 
-現職で使用しているもの
-- Go / TypeScript / Vue / React
-- PostgreSQL / AWS / Docker / Terraform
-
-過去に使用経験のあるもの
-- PHP / Laravel / FuelPHP
-- Ruby / Ruby on Rails
-- JavaScript
-- MySQL
+- Go / PHP（Laravel / FuelPHP） / Ruby（Rails）
+- JavaScript / TypeScript / Vue / React
+- MySQL / PostgreSQL
+- AWS / Docker / Terraform
 
 ## GitHubでの活動状況
 
