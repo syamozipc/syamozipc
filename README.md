@@ -10,7 +10,7 @@
 ## 技術スタック
 
 - Go / PHP（Laravel / FuelPHP） / Ruby（Rails）
-- JavaScript / TypeScript / Vue / React
+- JavaScript / TypeScript / Vue / React / Storybook
 - MySQL / PostgreSQL
 - AWS / Docker / Terraform
 
