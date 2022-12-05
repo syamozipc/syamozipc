@@ -14,6 +14,8 @@
 - MySQL / PostgreSQL
 - AWS / Docker / Terraform
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## GitHubでの活動状況
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
