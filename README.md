@@ -14,7 +14,7 @@
 - MySQL / PostgreSQL
 - AWS / Docker / Terraform
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,go,php,laravel,ruby,rails,postgres,mysql,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,go,php,laravel,ruby,rails,postgres,mysql,aws,docker&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 
