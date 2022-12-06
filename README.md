@@ -12,8 +12,7 @@
 
 ## 技術スタック
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)
-![Storybook-icon](https://user-images.githubusercontent.com/65382860/205850830-40ad9987-bbbd-41d1-8fa4-1d7a8a4ba17f.png)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
 
