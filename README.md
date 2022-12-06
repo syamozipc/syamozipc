@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/65382860/205854040-50f3b5bc-008b-475e-a4c9-fbfec2837d88.svg" width="45" height="45" /><br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
-<img src="https://user-images.githubusercontent.com/65382860/205854689-d60c91db-d65d-4a92-882e-86920954bcdf.png" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/65382860/205855077-9d4c546b-5ba3-402c-9720-a9d8054eea34.png" width="45" height="45" />
 
 ## GitHubでの活動状況
 
