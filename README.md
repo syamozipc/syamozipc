@@ -3,8 +3,9 @@
 - 2020年11月〜2022年6月　Webマーケティング企業
 - 2022年7月〜　不動産IT企業
 
-[Zennアカウント](https://zenn.dev/syamozipc)
+## SNS
 
+[Zennアカウント](https://zenn.dev/syamozipc)<br>
 [Qiitaアカウント](https://qiita.com/syamozipc)
 
 ## 技術スタック
