@@ -9,11 +9,6 @@
 
 ## 技術スタック
 
-- Go / PHP（Laravel / FuelPHP） / Ruby（Rails）
-- JavaScript / TypeScript / Vue / React / Storybook
-- MySQL / PostgreSQL
-- AWS / Docker / Terraform
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
