@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker,storybook,terraform,fuelphp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
 
 
 ## GitHubでの活動状況
