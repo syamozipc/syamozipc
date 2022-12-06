@@ -14,8 +14,7 @@
 - MySQL / PostgreSQL
 - AWS / Docker / Terraform
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
