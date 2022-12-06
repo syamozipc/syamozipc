@@ -21,3 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamozipc&layout=compact&langs_count=10&theme=gruvbox&hide=html,scss,css)
+
+
+<img src="https://user-images.githubusercontent.com/65382860/205854040-50f3b5bc-008b-475e-a4c9-fbfec2837d88.svg" width="48" height="48" />
