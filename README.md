@@ -12,7 +12,7 @@
 
 ## 技術スタック
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,webpack)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/65382860/205854040-50f3b5bc-008b-475e-a4c9-fbfec2837d88.svg" width="48" height="48" /><br>
 [![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
