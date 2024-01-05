@@ -16,6 +16,7 @@
 ## 資格
 - 基本情報技術者
 - AWS Certified Solutions Architect - Associate
+- TOEICスコア895
 
 ## 主な技術領域
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,terraform,githubactions&perline=5)](https://skillicons.dev)
