@@ -10,10 +10,10 @@
 - 基本情報技術者
 - AWS Solutions Architect Associate
 
-## 主に触っている技術
+## 主に使用している技術
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vite,vitest,go,postgres,docker,kubernetes,aws,githubactions,terraform&perline=5)](https://skillicons.dev)
 
-## 過去触っていた技術
+## 業務経験のある技術
 [![My Skills](https://skillicons.dev/icons?i=sass,js,vue,jest,webpack,php,laravel,mysql&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
