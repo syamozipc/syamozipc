@@ -9,6 +9,9 @@
 [Zennアカウント](https://zenn.dev/syamozipc)<br>
 [Qiitaアカウント](https://qiita.com/syamozipc)
 
+## 資格
+- 基本情報技術者
+- AWS Solutions Architect Associate
 
 ## 技術スタック
 
