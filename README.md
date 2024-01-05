@@ -9,17 +9,16 @@
 [Zennアカウント](https://zenn.dev/syamozipc)<br>
 [Qiitaアカウント](https://qiita.com/syamozipc)
 
+
 ## 資格
+
 - 基本情報技術者
 - AWS Solutions Architect Associate
 
 ## 技術領域
-主な技術<br>
-[![My Skills](https://skillicons.dev/icons?i=ts,react,go,jest,kubernetes,postgres,mysql,aws,githubactions,docker,terraform,vite,vitest&perline=5)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,githubactions,terraform&perline=5)](https://skillicons.dev)
 
-業務経験のある技術<br>
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js,jquery,vue,babel,gulp,webpack,php,laravel,mysql,jenkins&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 
