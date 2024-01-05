@@ -13,13 +13,9 @@
 - 基本情報技術者
 - AWS Solutions Architect Associate
 
-## 技術スタック
+## 技術領域
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,webpack)](https://skillicons.dev)
-<img src="https://user-images.githubusercontent.com/65382860/205854040-50f3b5bc-008b-475e-a4c9-fbfec2837d88.svg" width="48" height="48" /><br>
-[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,ruby,rails)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,aws,docker)](https://skillicons.dev)
-<img src="https://user-images.githubusercontent.com/65382860/205855077-9d4c546b-5ba3-402c-9720-a9d8054eea34.png" width="48" height="48" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,webpack,go,php,laravel,ruby,rails,postgres,mysql,aws,docker&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 
