@@ -14,8 +14,12 @@
 - AWS Solutions Architect Associate
 
 ## 技術領域
+主な技術
+[![My Skills](https://skillicons.dev/icons?i=ts,react,go,jest,kubernetes,postgres,mysql,aws,githubactions,docker,terraform,vite,vitest&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,webpack,go,php,laravel,ruby,rails,postgres,mysql,aws,docker&perline=5)](https://skillicons.dev)
+
+業務経験のある技術
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,dynamodb,figma,php,laravel,vue,gcp,gulp,js,jquery,babel,webpack,mysql,jenkins&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 
