@@ -19,7 +19,7 @@
 
 
 業務経験のある技術<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,dynamodb,figma,php,laravel,vue,gcp,gulp,js,jquery,babel,webpack,mysql,jenkins&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js,jquery,vue,babel,gulp,webpack,php,laravel,mysql,jenkins&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 
