@@ -18,7 +18,7 @@
 - AWS Solutions Architect Associate
 
 ## 主な技術領域
-[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,githubactions,terraform&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,terraform,githubactions&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
