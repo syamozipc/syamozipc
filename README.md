@@ -9,13 +9,13 @@
 - インフラの設計・構築（Terraform × AWS）
 - 主に新卒エンジニアの採用/メンター業務
 
-## SNS
-[Zennアカウント](https://zenn.dev/syamozipc)<br>
-[Qiitaアカウント](https://qiita.com/syamozipc)
-
 ## 資格
 - 基本情報技術者
 - AWS Solutions Architect Associate
+
+## SNS
+[Zennアカウント](https://zenn.dev/syamozipc)<br>
+[Qiitaアカウント](https://qiita.com/syamozipc)
 
 ## 主な技術領域
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,githubactions,terraform&perline=5)](https://skillicons.dev)
