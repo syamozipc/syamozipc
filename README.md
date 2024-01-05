@@ -23,4 +23,4 @@
 
 ## GitHubでの活動状況
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamozipc&layout=compact&langs_count=10&theme=gruvbox&hide=html,scss,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamozipc&layout=compact&langs_count=6&theme=gruvbox&hide=html,scss,css)
