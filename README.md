@@ -6,7 +6,7 @@
 社内で使用する業務アプリケーションの開発をしています。
 - SPAでのフロントエンド・バックエンド開発（Go/Echo × TS/React）
 - インフラの設計・構築（Terraform × AWS）
-- 新卒採用
+- 新卒の採用・メンター
 
 ## SNS
 [Zennアカウント](https://zenn.dev/syamozipc)<br>
