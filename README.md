@@ -2,6 +2,12 @@
 - 2020年11月〜2022年6月　Webマーケティング企業
 - 2022年7月〜　不動産IT企業
 
+## 現在取り組んでいること
+社内で使用する業務アプリケーションの開発をしています。
+- SPAでのフロント/バック開発（GO/Echo × TS/React）
+- インフラの設計・構築（Terraform × AWS）
+- 新卒採用
+
 ## SNS
 [Zennアカウント](https://zenn.dev/syamozipc)<br>
 [Qiitaアカウント](https://qiita.com/syamozipc)
@@ -10,7 +16,7 @@
 - 基本情報技術者
 - AWS Solutions Architect Associate
 
-## 主に使用している技術
+## 主な技術領域
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,githubactions,terraform&perline=5)](https://skillicons.dev)
 
 ## GitHubでの活動状況
