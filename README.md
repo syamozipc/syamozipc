@@ -21,7 +21,8 @@
 ## 主な技術領域
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,vitest,go,php,laravel,postgres,mysql,docker,kubernetes,aws,terraform,githubactions&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,jest,go,laravel,rails,kubernetes,aws,terraform,githubactions&perline=5)](https://skillicons.dev)
+## 主な技術領域
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,jest,go,laravel,rails,postgres,kubernetes,aws,terraform,githubactions&perline=4)](https://skillicons.dev)
 
 
 ## GitHubでの活動状況
