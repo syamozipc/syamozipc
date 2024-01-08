@@ -28,11 +28,11 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,vue,jest,go,laravel,aws,terraform&perline=4)](https://skillicons.dev)
 
 ## 主な技術領域
-- Go(Echo), PHP(FuelPHP,Laravel), Ruby(Rails)
-- JavaScript, TypeScript, React, Vue
+- Go(Echo), PHP(Laravel)
+- TypeScript, React, Vue
 - Webpack, Jest, Vite, Vitest
 - Postgres, MySQL
-- Docker, Kubernetes, GitHub Actions, AWS, Terraform
+- AWS, Terraform
 
 ## GitHubでの活動状況
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamozipc&count_private=true&show_icons=true&theme=gruvbox)
