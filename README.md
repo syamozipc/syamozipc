@@ -6,7 +6,8 @@ I've covered the full cycle — requirements definition, development, infrastruc
 - **Frontend**: TypeScript / React / Next.js / Vue.js
 - **Backend**: TypeScript (NestJS) / Go (Echo) / PHP (Laravel) / Ruby (Rails)
 - **Infrastructure**: AWS / GCP / Terraform
-- **Others**: GraphQL / BigQuery / Elasticsearch / LLM application development (incl. RAG) / Testing (Unit / Integration / E2E / VRT)
+- **Data**: RDB / NoSQL / BigQuery / Elasticsearch
+- **Others**: GraphQL / LLM application development (incl. RAG) / Testing (Unit / Integration / E2E / VRT)
 
 ## Certifications
 - AWS Certified Solutions Architect – Associate
