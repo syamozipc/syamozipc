@@ -6,7 +6,7 @@ I've covered the full cycle — requirements definition, development, infrastruc
 - **Frontend**: TypeScript / React / Next.js / Vue.js
 - **Backend**: TypeScript (NestJS) / Go (Echo) / PHP (Laravel) / Ruby (Rails)
 - **Infrastructure**: AWS / GCP / Terraform
-- **Data**: RDB / Redis / MongoDB / DynamoDB / BigQuery / Elasticsearch
+- **Data**: RDB / Redis / MongoDB / BigQuery / Elasticsearch
 - **Others**: GraphQL / LLM application development (incl. RAG) / Testing (Unit / Integration / E2E / VRT / Load Test etc)
 
 ## Certifications
