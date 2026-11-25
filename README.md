@@ -10,9 +10,12 @@ I've covered the full cycle — requirements definition, development, infrastruc
 - **Others**: GraphQL / LLM application development (incl. RAG) / Testing (Unit / Integration / E2E / VRT / Load Test etc)
 
 ## Certifications
+- Claude Certified Architect – Foundations — Anthropic
 - AWS Certified Solutions Architect – Associate
 - TOEIC L&R 895
 - Fundamental Information Technology Engineer — Japanese national certification by IPA
+
+[Credly](https://www.credly.com/users/ryota-saito.ba8504f5/badges/credly)
 
 ## Writing (Japanese)
 - [Zenn](https://zenn.dev/syamozipc)
