@@ -13,7 +13,7 @@ I've covered the full cycle — requirements definition, development, infrastruc
 - Claude Certified Architect – Foundations
 - AWS Certified Solutions Architect – Associate
 - TOEIC L&R 895
-- Fundamental Information Technology Engineer — Japanese national certification by IPA
+- Fundamental Information Technology Engineer (基本情報技術者) — Japanese national certification by IPA
 
 [Credly](https://www.credly.com/users/ryota-saito.ba8504f5/badges/credly)
 
